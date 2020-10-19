@@ -1,1 +1,4 @@
+#Print a basic array
+
+
 for i in range(0,11): print(i,end='\t')
